@@ -1,4 +1,4 @@
-import { moduloEx5 } from "../../D01/EX05/D01-EX05";
+import { moduloEx5 } from "../../D01/EX05";
 describe("Testing D01EX05", () => {
   global.console = {
     log: jest.fn(),

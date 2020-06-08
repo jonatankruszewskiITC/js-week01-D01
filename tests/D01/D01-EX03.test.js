@@ -1,4 +1,4 @@
-import { compareNumbers } from "../../D01/EX03/D01-EX03";
+import { compareNumbers } from "../../D01/EX03";
 describe("Testing D01EX03", () => {
   global.console = {
     log: jest.fn(),

@@ -73,10 +73,10 @@ To test this exercise run: `npm run testex5`
 
 6. In D01/EX06, create a website that runs the JS attached file. In that file, edit the function provided. Use as template your previous function. Instead of logging a string to the console, create a h3 tag with an id of ‘output’, and change the text of the tag according to the logic you implemented.
 
-To test this exercise run: `npm run testex6`
+This exercise does not have an automated test. Run it in your browser, and check the results.
 
 7. In D01/EX07, create a website that runs the JS attached file. In that file, edit the function provided. Use as template your previous function. Add a new function that randomize the values of your two variables, using Math.random(), with the range of 1 - 100. Call to that function inside the other one instead of providing two parameters.
 
-To test this exercise run: `npm run testex7`
+This exercise does not have an automated test. Run it in your browser, and check the results.
 
 To run tests in the whole folder: `npm run test`

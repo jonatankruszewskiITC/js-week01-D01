@@ -1,4 +1,4 @@
-import { modulo } from "../../D01/EX04/D01-EX04";
+import { modulo } from "../../D01/EX04";
 describe("Testing D01EX04", () => {
   global.console = {
     log: jest.fn(),
@@ -14,9 +14,7 @@ describe("Testing D01EX04", () => {
     expect(global.console.log).toHaveBeenCalledWith(
       `The number 8 is bigger than 3`
     );
-    expect(global.console.log).toHaveBeenCalledWith(
-      `The modulo of 8 % 3 is 2`
-    );
+    expect(global.console.log).toHaveBeenCalledWith(`The modulo of 8 % 3 is 2`);
   });
   test("Number should be less than comparer", () => {
     modulo(3, 5);

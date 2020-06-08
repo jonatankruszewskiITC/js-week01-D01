@@ -9,8 +9,6 @@
     "testex3": "jest --testPathPattern=tests/D01/D01-EX03.test.js",
     "testex4": "jest --testPathPattern=tests/D01/D01-EX04.test.js",
     "testex5": "jest --testPathPattern=tests/D01/D01-EX05.test.js",
-    "testex6": "jest --testPathPattern=tests/D01/D01-EX06.test.js",
-    "testex7": "jest --testPathPattern=tests/D01/D01-EX07.test.js",
     "test": "jest --testPathPattern=tests/D01"
   },
   "author": "",

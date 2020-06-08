@@ -5,5 +5,3 @@ function getRandomInt(max) {
 function moduloEx7() {
   //your code
 }
-
-export { moduloEx7, getRandomInt };
