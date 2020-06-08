@@ -1,3 +1,32 @@
+# Students
+Hi! Congratulations on having forked your first github repository.
+Today, you need to solve some JS challenges and push the changes to the master. Yay!
+
+To do that, let's start by setting up your work environment.
+JavaScript was built originally to be used in the browser.
+But we are going to use it in another environment called NodeJS.
+Why is that? Because we included you some Unit Tests for your code!
+At any moment you will be able to run commands like 'npm run testd1ex3'
+and check that your code passes the tests!
+
+Your objective for today is not only write the code that will do what is requested,
+also to do it on a way that it will pass the test.
+
+Let's set up the environment:
+- Check that you have NodeJS isntalled. To do that, open a terminal/cmd window and run:
+node --version
+If it doesn't retrieve you the current version please go to https://nodejs.org/en/download/ and download the latest LTS version (not current).
+- Run the command in the terminal : 'npm install'. This may take some minutes (1-2 fast computer, 4-5 slow one)
+- Start writing your code in the proper files.
+- To run a test for a specific exercise do:
+npm run test  + ex + exercise number.
+For example, for day 01, ex 3:
+npm run testex3
+- To check your progres on the whole day, you can do npm run testd1
+
+
+#Happy coding!
+
 You are not allowed to change the JS File names or modify the folder structure.
 
 1.	In D01/EX01, create a website that runs the JS attached file. In that file, fill in the function provided with one line of code that logs to the console “Hello World”. Call that function. You should open devtools (in your browser), and go to the “console” tab and see the string you just logged.
