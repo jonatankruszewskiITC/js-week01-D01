@@ -54,7 +54,7 @@ Do not change the tests files.
 
 # Exercises instructions
 
-1. In the JS file, fill in the function provided with one line of code that logs to the console “Hello World”. Call that function.
+1. In the JS file, fill in the function provided with one line of code that logs to the console “Hello World”.
    To test this exercise run: `npm run testex1`
 
 2. That function, should accept one parameter (do not call it x, y.. Give it a real name). The code should print to the console “The number Y is bigger than 4” when the number is bigger than 4, or “the number Y is equal to 4” when the number is equal to 4, or “the number Y is less than 4” when the number is less than 4 (where Y is the value of your variable). Change the value to your variable, and check if you get the right output every time (do not forget to refresh the page after you change your code).
