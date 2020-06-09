@@ -1,4 +1,4 @@
-import { isBiggerThan } from "../../D01/EX02";
+import { isBiggerThan } from "../D01/EX02";
 describe("Testing D01EX02", () => {
   global.console = {
     log: jest.fn(),

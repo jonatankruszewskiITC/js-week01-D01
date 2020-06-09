@@ -1,4 +1,4 @@
-import { modulo } from "../../D01/EX04";
+import { modulo } from "../D01/EX04";
 describe("Testing D01EX04", () => {
   global.console = {
     log: jest.fn(),

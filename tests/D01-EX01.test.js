@@ -1,4 +1,4 @@
-import { printHelloWorld } from "../../D01/EX01";
+import { printHelloWorld } from "../D01/EX01";
 describe("Testing D01EX01", () => {
   test("Prints Hello World", () => {
     global.console = {
