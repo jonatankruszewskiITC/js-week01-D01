@@ -24,7 +24,7 @@ We recommend you first develop you exercise code in a separated html and js, and
 
 ## Use prebuilt automated tests
 
-To test you code using our automated test, you can always run `npm test` in the cmd/terminal (make sure you are in the repo folder, where the `package.json` file is).
+To test your code using our automated test, you can always run `npm test` in the cmd/terminal (make sure you are in the repo folder, where the `package.json` file is).
 
 ```bash
 npm test
