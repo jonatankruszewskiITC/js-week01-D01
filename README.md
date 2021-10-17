@@ -16,7 +16,7 @@ npm install
 ## How to exercise
 
 You have 7 exercises in this repo. Each exercise has it's own folder and file (for example, exercise 1 should be written in `D01/EX01/index.js`, and exercise 2 in `/D01/EX02/index.js` etc.)
-We built an automated test for most of the exercises, to enable you check your result, and for us (instructors) to if you code works ok.
+We built an automated test for most of the exercises, to enable you check your result, and for us (instructors) to check if your code works ok.
 
 ## Develop in the browser first
 
